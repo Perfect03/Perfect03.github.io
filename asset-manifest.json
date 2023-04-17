@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.2877a671.css",
-    "main.js": "./static/js/main.d7422336.js",
+    "main.css": "./static/css/main.4a04074b.css",
+    "main.js": "./static/js/main.b21be6b3.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/Rubik-Regular.ttf": "./static/media/Rubik-Regular.0dfbb61b2158905edb87.ttf",
     "static/media/logo__tokenomics.svg": "./static/media/logo__tokenomics.cf68cca548957d30dd199dc5e781be7d.svg",
@@ -13,12 +13,12 @@
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "static/media/arrow__down.svg": "./static/media/arrow__down.94ee067398a45348361ab5182c3ef558.svg",
     "index.html": "./index.html",
-    "main.2877a671.css.map": "./static/css/main.2877a671.css.map",
-    "main.d7422336.js.map": "./static/js/main.d7422336.js.map",
+    "main.4a04074b.css.map": "./static/css/main.4a04074b.css.map",
+    "main.b21be6b3.js.map": "./static/js/main.b21be6b3.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2877a671.css",
-    "static/js/main.d7422336.js"
+    "static/css/main.4a04074b.css",
+    "static/js/main.b21be6b3.js"
   ]
 }

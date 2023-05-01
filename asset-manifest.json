@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.2feec8cd.css",
-    "main.js": "./static/js/main.b56b8e74.js",
-    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "main.css": "./static/css/main.9003a7c3.css",
+    "main.js": "./static/js/main.05c7ebfe.js",
+    "static/js/787.d4aba7ab.chunk.js": "./static/js/787.d4aba7ab.chunk.js",
     "static/media/Rubik-Regular.ttf": "./static/media/Rubik-Regular.0dfbb61b2158905edb87.ttf",
+    "static/media/logo__left.svg": "./static/media/logo__left.12dc697e3cee377e97556c0d8e2ad834.svg",
     "static/media/logo__tokenomics.svg": "./static/media/logo__tokenomics.cf68cca548957d30dd199dc5e781be7d.svg",
     "static/media/logo__header.svg": "./static/media/logo__header.59240071c1a594ea01ac1df5bfc731eb.svg",
     "static/media/logo__main.svg": "./static/media/logo__main.ce64428c5da5d0c9fd51c50330e54e64.svg",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/bitcoin.svg": "./static/media/bitcoin.f88a31c6449be52ed56023b3445d1a75.svg",
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/wallet.svg": "./static/media/wallet.c22a7fc545f13d916a4b7968c35c5b59.svg",
     "static/media/copy.svg": "./static/media/copy.e0e26abc9be4f7dcdd2213e0f1188848.svg",
+    "static/media/coin.svg": "./static/media/coin.e538b60d58a3e765ead44bf7dfb36e9e.svg",
     "static/media/arrow__down.svg": "./static/media/arrow__down.94ee067398a45348361ab5182c3ef558.svg",
     "index.html": "./index.html",
-    "main.2feec8cd.css.map": "./static/css/main.2feec8cd.css.map",
-    "main.b56b8e74.js.map": "./static/js/main.b56b8e74.js.map",
-    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+    "static/media/deposit.svg": "./static/media/deposit.9a91b13d89fdb670a37b6f3f0318bb84.svg",
+    "static/media/withdraw.svg": "./static/media/withdraw.05139819ad244206386b45669769fb5b.svg",
+    "static/media/refresh.svg": "./static/media/refresh.8146d699df3fec64aaa584fccd053104.svg",
+    "main.9003a7c3.css.map": "./static/css/main.9003a7c3.css.map",
+    "main.05c7ebfe.js.map": "./static/js/main.05c7ebfe.js.map",
+    "787.d4aba7ab.chunk.js.map": "./static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2feec8cd.css",
-    "static/js/main.b56b8e74.js"
+    "static/css/main.9003a7c3.css",
+    "static/js/main.05c7ebfe.js"
   ]
 }

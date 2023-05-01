@@ -1,32 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.87f6a856.css",
-    "main.js": "./static/js/main.df92bdef.js",
+    "main.css": "./static/css/main.2feec8cd.css",
+    "main.js": "./static/js/main.b56b8e74.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/Rubik-Regular.ttf": "./static/media/Rubik-Regular.0dfbb61b2158905edb87.ttf",
-    "static/media/logo__left.svg": "./static/media/logo__left.5b30ba162451f772c2762fce283d6c68.svg",
     "static/media/logo__tokenomics.svg": "./static/media/logo__tokenomics.cf68cca548957d30dd199dc5e781be7d.svg",
     "static/media/logo__header.svg": "./static/media/logo__header.59240071c1a594ea01ac1df5bfc731eb.svg",
     "static/media/logo__main.svg": "./static/media/logo__main.ce64428c5da5d0c9fd51c50330e54e64.svg",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/bitcoin.svg": "./static/media/bitcoin.b273bf09a69054c4e18ef8aa57bffc4d.svg",
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
-    "static/media/wallet.svg": "./static/media/wallet.6c4bffd4ce851436c87f22214ff5cd3f.svg",
-    "static/media/copy.svg": "./static/media/copy.7dcf796e23abcc112a9385942add1c76.svg",
-    "static/media/coin.svg": "./static/media/coin.7ec3e780252383ab94c4bbea7e0ea59c.svg",
+    "static/media/copy.svg": "./static/media/copy.e0e26abc9be4f7dcdd2213e0f1188848.svg",
     "static/media/arrow__down.svg": "./static/media/arrow__down.94ee067398a45348361ab5182c3ef558.svg",
     "index.html": "./index.html",
-    "static/media/deposit.svg": "./static/media/deposit.f2792367305543c456283579f9c0d860.svg",
-    "static/media/withdraw.svg": "./static/media/withdraw.355fa4dce85e4d5f88fb905793fbc32f.svg",
-    "static/media/refresh.svg": "./static/media/refresh.e02db28984a90a40d6e2b878922ae450.svg",
-    "main.87f6a856.css.map": "./static/css/main.87f6a856.css.map",
-    "main.df92bdef.js.map": "./static/js/main.df92bdef.js.map",
+    "main.2feec8cd.css.map": "./static/css/main.2feec8cd.css.map",
+    "main.b56b8e74.js.map": "./static/js/main.b56b8e74.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87f6a856.css",
-    "static/js/main.df92bdef.js"
+    "static/css/main.2feec8cd.css",
+    "static/js/main.b56b8e74.js"
   ]
 }

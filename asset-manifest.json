@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.5a188038.css",
-    "main.js": "./static/js/main.c71e0528.js",
+    "main.css": "./static/css/main.ce87a02f.css",
+    "main.js": "./static/js/main.bc41fc93.js",
     "static/js/787.d4aba7ab.chunk.js": "./static/js/787.d4aba7ab.chunk.js",
     "static/media/Rubik-Regular.ttf": "./static/media/Rubik-Regular.0dfbb61b2158905edb87.ttf",
     "static/media/logo__left.svg": "./static/media/logo__left.5b30ba162451f772c2762fce283d6c68.svg",
@@ -10,8 +10,6 @@
     "static/media/logo__main.svg": "./static/media/logo__main.75a97f0742274a0ff4064eb39b2b8f53.svg",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/bitcoin_small.svg": "./static/media/bitcoin_small.683d45855abf17a7947ff3bedbb58037.svg",
-    "static/media/bitcoin.svg": "./static/media/bitcoin.b273bf09a69054c4e18ef8aa57bffc4d.svg",
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "static/media/wallet.svg": "./static/media/wallet.6c4bffd4ce851436c87f22214ff5cd3f.svg",
@@ -26,12 +24,12 @@
     "static/media/refresh.svg": "./static/media/refresh.e02db28984a90a40d6e2b878922ae450.svg",
     "static/media/back.svg": "./static/media/back.5dda241081415c70b836cc39970a963b.svg",
     "static/media/more.svg": "./static/media/more.9cf005b6ad5cbed5fed1d3e8fd276dbd.svg",
-    "main.5a188038.css.map": "./static/css/main.5a188038.css.map",
-    "main.c71e0528.js.map": "./static/js/main.c71e0528.js.map",
+    "main.ce87a02f.css.map": "./static/css/main.ce87a02f.css.map",
+    "main.bc41fc93.js.map": "./static/js/main.bc41fc93.js.map",
     "787.d4aba7ab.chunk.js.map": "./static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a188038.css",
-    "static/js/main.c71e0528.js"
+    "static/css/main.ce87a02f.css",
+    "static/js/main.bc41fc93.js"
   ]
 }

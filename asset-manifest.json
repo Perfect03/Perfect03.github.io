@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.39cb6b06.css",
-    "main.js": "/static/js/main.6cb626fd.js",
+    "main.css": "/static/css/main.4f36fbc6.css",
+    "main.js": "/static/js/main.0aeabaf1.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.f887c9f4ac165f5e1912.ttf",
-    "static/media/Carno.png": "/static/media/Carno.d86cd194a4fdf98fa952.png",
+    "static/media/logo_tsu_black.png": "/static/media/logo_tsu_black.bd3e8a3ec515920982d1.png",
+    "static/media/Karnaugh.png": "/static/media/Karnaugh.d86cd194a4fdf98fa952.png",
     "static/media/3.png": "/static/media/3.1f3c53f9d665b9096ad0.png",
     "index.html": "/index.html",
     "static/media/back.svg": "/static/media/back.d1b57575113f0971fe88292b6dea3821.svg",
-    "main.39cb6b06.css.map": "/static/css/main.39cb6b06.css.map",
-    "main.6cb626fd.js.map": "/static/js/main.6cb626fd.js.map",
+    "main.4f36fbc6.css.map": "/static/css/main.4f36fbc6.css.map",
+    "main.0aeabaf1.js.map": "/static/js/main.0aeabaf1.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39cb6b06.css",
-    "static/js/main.6cb626fd.js"
+    "static/css/main.4f36fbc6.css",
+    "static/js/main.0aeabaf1.js"
   ]
 }
